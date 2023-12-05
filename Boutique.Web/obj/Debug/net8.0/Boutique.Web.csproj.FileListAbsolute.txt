@@ -1,0 +1,8 @@
+C:\Users\14389\source\repos\Boutique\Boutique.Web\obj\Debug\net8.0\Boutique.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14389\source\repos\Boutique\Boutique.Web\obj\Debug\net8.0\Boutique.Web.AssemblyInfoInputs.cache
+C:\Users\14389\source\repos\Boutique\Boutique.Web\obj\Debug\net8.0\Boutique.Web.AssemblyInfo.cs
+C:\Users\14389\source\repos\Boutique\Boutique.Web\obj\Debug\net8.0\Boutique.Web.csproj.CoreCompileInputs.cache
+C:\Users\14389\source\repos\Boutique\Boutique.Web\obj\Debug\net8.0\Boutique.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\14389\source\repos\Boutique\Boutique.Web\obj\Debug\net8.0\Boutique.Web.RazorAssemblyInfo.cache
+C:\Users\14389\source\repos\Boutique\Boutique.Web\obj\Debug\net8.0\Boutique.Web.RazorAssemblyInfo.cs
+C:\Users\14389\source\repos\Boutique\Boutique.Web\obj\Debug\net8.0\Boutique.Web.sourcelink.json
